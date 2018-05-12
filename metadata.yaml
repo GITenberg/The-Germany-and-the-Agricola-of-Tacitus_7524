@@ -1,5 +1,8 @@
 _repo: The-Germany-and-the-Agricola-of-Tacitus_7524
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Tacitus, Cornelius
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2591
     wikipedia: http://en.wikipedia.org/wiki/Tacitus
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7524#The-Germany-and-the-Agricola-of-Tacitus
 gutenberg_bookshelf:
 - Classical Antiquity
 - Germany
